@@ -4,9 +4,3 @@
 
 [[plugins]]
   package = "netlify-plugin-cypress"
-
-{
-  "scripts": {
-    "build": "next build"
-  }
-}
